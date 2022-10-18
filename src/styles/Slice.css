@@ -1,0 +1,28 @@
+.slice {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+    background-color: white;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    margin: 15px;
+}
+
+.data-container {
+    margin: 15px 15px 15px 0;
+}
+
+.name {
+    font-size: 14px;
+}
+
+.domain {
+    color: #9F9F9F;
+    font-size: 12px;
+}
