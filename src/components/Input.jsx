@@ -15,7 +15,6 @@ function Input() {
 
     axios.get(`https://autocomplete.clearbit.com/v1/companies/suggest?query=${requestedWord}`).then(res => {
       setSearchResult(res.data)
-      console.log(searchResult)
     })
   }
 
