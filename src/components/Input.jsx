@@ -3,8 +3,7 @@ import axios from "axios"
 import SliceContainer from './SliceContainer';
 
 
-function Input(props) {
-
+function Input() {
     const [searchResult, setSearchResult] = useState('')
 
     const inputChangeHandler = (event) => {

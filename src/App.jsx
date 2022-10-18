@@ -1,6 +1,3 @@
-import { useState } from 'react';
-import axios from "axios"
-
 import FormField from './components/FormField';
 import Input from './components/Input';
 
