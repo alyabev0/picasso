@@ -1,10 +1,10 @@
 .form-field {
-    width: 40%;
-    min-width: 320px;
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-    border-radius: 4px;
+  width: 40%;
+  min-width: 320px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 4px;
 }

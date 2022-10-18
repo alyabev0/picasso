@@ -10,7 +10,7 @@ import './styles/Slice.css'
 
 
 function App() {
-  
+
   return (
     <div className="app">
 
